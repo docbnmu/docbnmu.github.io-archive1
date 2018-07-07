@@ -4,4 +4,4 @@
 
 
 
-<meta http-equiv="refresh" content="0;url=https://docbnmu1.github.io/home.html"/>
+<meta http-equiv="refresh" content="100;url=https://docbnmu1.github.io/home.html"/>
